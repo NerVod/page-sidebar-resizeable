@@ -28,7 +28,7 @@ html {
 
 .sidebar {
   position: relative;
-  background: url(../media/blue-sky-with-clouds.jpg) no-repeat 50% 50%;
+  background: url(./media/blue-sky-with-clouds.jpg) no-repeat 50% 50%;
   box-shadow: inset -2px 0 20px rgb(59, 59, 146);
 }
 
